@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://i.ibb.co/6yTy4Ms/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Beth Ellen',sans-serif;
+    font-size: 64px;
+    line-height: 120px;
+    color: #EBF1FB;
+    padding-top: 275px;
+    margin-bottom: 4px;
+    font-weight: 400px;
+}
+
+span{
+    color: #5EEAD4;
+}
+
+p{
+    font-family: 'Spectral',sans-serif;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #EBF1FB;
+    margin-bottom: 72px;
+}
+
+a{
+
+    font-family: 'Spectral',serif;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 24px;
+    color: white;
+    padding: 32px 16px;
+    margin-right: 24px;
+}
+
+button{
+    border: none;
+    background-color: #5EEAD4;
+    width: 149px;
+    height: 56px;
+    gap: 8px;
+    border-radius: 8px;
+    font-family: 'Spectral',serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px
+}
